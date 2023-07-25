@@ -53,7 +53,9 @@ export default function SignupPage() {
             />
             <button
             onClick={onSignup} 
-            className="p-2 border-gray-400 rounded-lg mb-4 focus:outline-none bg-blend-color">
+            className="px-4 py-2 bg-blue-500 hover:bg-red-600 text-white 
+            font-semibold rounded shadow-md transition duration-300 ease-in-out"
+            >
                 Signup</button>
                 <Link href="/login">Visit login</Link>
         </div>
