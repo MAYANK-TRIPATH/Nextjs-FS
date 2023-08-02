@@ -13,10 +13,10 @@ JWT-based authentication for secure communication.
 Styling with Tailwind CSS for modern and responsive design.
 
 ## Technologies Used
-Next.js 13
-Typescript
-JavaScript
-Tailwind CSS
-Node.js
-Express.js
-MongoDB 
+* Next.js 13
+* Typescript
+* JavaScript
+* Tailwind CSS
+* Node.js
+* Express.js
+* MongoDB 
