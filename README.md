@@ -1,6 +1,6 @@
-#Fullstack Authentication App with Next.js 13
+# Fullstack Authentication App with Next.js 13
 
-##Description
+## Description
 This is a full-stack authentication app built using the latest Next.js 13 framework. The app provides user authentication using 
 various methods, including Google authentication. It also incorporates Tailwind CSS for styling and responsive design.
 
